@@ -1,0 +1,7 @@
+package payroll;
+
+
+class EmployeeNotFoundAdvice {
+
+	
+}
